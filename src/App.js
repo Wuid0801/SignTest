@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          계정 테스트
+          계정 테스트 wuid-0801
         </p>
 
       </header>
