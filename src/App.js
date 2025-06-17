@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          계정 테스트 wuid-0801
+          깃허브 이름 변경 테스트트
         </p>
 
       </header>
